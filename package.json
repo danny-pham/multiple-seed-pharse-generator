@@ -1,0 +1,32 @@
+{
+    "name": "multiple-seed-phrase-generator",
+    "version": "1.0.0",
+    "description": "Multiple Seed Phrase Generator is a JavaScript library that allows you to generate multiple seed phrases",
+    "main": "multiple-seed-phrase-generator.js",
+    "scripts": {
+      "test": "echo \"No test specified\" && exit 0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/danny-pham/multiple-seed-phrase-generator.git"
+    },
+    "keywords": [
+      "multiple",
+      "seed",
+      "pharse",
+      "generator",
+      "crypto",
+      "wallet"
+    ],
+    "author": "danny-pham",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/danny-pham/multiple-seed-phrase-generator/issues"
+    },
+    "homepage": "https://github.com/danny-pham/multiple-seed-phrase-generator#readme",
+    "dependencies": {
+      "seed-phrase-generator": "^1.2.7"
+    },
+    "devDependencies": {}
+  }
+  
